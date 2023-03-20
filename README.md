@@ -4,7 +4,7 @@ quizApp
 
 ## Command
 
--   protected $signature = 'import:trivia-questions';
+-   php artisan import:trivia-questions
 
 ## User
 
