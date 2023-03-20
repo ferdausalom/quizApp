@@ -8,4 +8,4 @@ quizApp
 
 ## User
 
--   Register a user;
+-   Register a user
